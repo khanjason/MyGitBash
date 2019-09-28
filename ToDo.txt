@@ -1,0 +1,19 @@
+
+Features:
+
+Webcuts-
+need to create set up script to set up alias to profile config
+add ease of adding own webcuts to list
+
+Music search- find a way/ build script to play youtube video
+
+Greeting Screen- set username and add greeting
+
+Notes - nano alias for writing notes, new ways of displaying and reading
+
+Calendar/ Reminders - type of note does reminders.
+program to set reminder, with time/date and reminder setting?
+if file not exists
+create reminder.txt
+timekeeper.sh runs in background in startup
+will alert if reminder occurs.
