@@ -17,3 +17,6 @@ if file not exists
 create reminder.txt
 timekeeper.sh runs in background in startup
 will alert if reminder occurs.
+
+create easy access commands in setup- run scripts easier with commands
+
